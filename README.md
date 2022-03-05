@@ -5,7 +5,7 @@
 - 🏫 I’m an undergraduate student majoring in IoT👨‍💻.
 - 🌱 I’m currently learning Algorithm, Vue, Go, Java, Python.
 - 🔆 I like running🏃, badminton🏸, table tennis🏓. 
-- ✒️ I am also a [Blogger](https://wangyi.one).
+- ✒️ I’m also a [Blogger](https://wangyi.one).Welcome to visit😊.
 - 😺 I like cats and dogs, but I don't have pets yet🤦.
 - 📫 How to reach me: wangyiid@outlook.com.
 
