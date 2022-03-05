@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning Algorithm, Vue, Go, Java, Python.
 - 🔆 I like running🏃, badminton🏸, table tennis🏓. 
 - ✒️ I’m also a [Blogger](https://wangyi.one).Welcome to visit😊.
-- 😺 I love small animals, especially cats😽 and dogs🐶, but I haven't kept pets yet🤦.
+- 😺 I love little animals, especially kitty😽 and puppy🐶, but I haven't kept pets yet🤦.
 - 📫 How to reach me: wangyiid@outlook.com.
