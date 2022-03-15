@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiWyatt&count_private=true&show_icons=true&theme=default" />
 
 ### Here is Wyatt 👋  
 - 🔭 I live in China❤️.
