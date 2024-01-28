@@ -3,7 +3,7 @@
 ### Here is Wyatt 👋  
 - 🔭 I live in China❤️.
 - 🏫 I’m a graduate student majoring in Cyber Security👨‍💻.
-- 🌱 I’m currently learning Go, Vue, Algorithm, Java, Python.
+- 🌱 I’m currently learning Algorithm, Go, Java, Python, Vue.
 - 🔆 I like running🏃, table tennis🏓, badminton🏸. 
 - ✒️ I’m also a [Blogger](https://wangyi.one).Welcome to visit😊.
 - 😺 I love little animals, especially kitty😽 and puppy🐶, but I haven't kept pets yet🤦.
